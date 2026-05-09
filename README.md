@@ -30,7 +30,7 @@ Desenvolver uma aplicação em Python utilizando Orientação a Objetos para cad
 - Tratamento de exceções (`try/except`)
 - Entrada e saída de dados pelo terminal
 
-## Stat Aplicação
+## Iniciar Aplicação
 
 - Abrir pasta no terminal `cd app`
 - Executar aplicação `python3 run.py`
