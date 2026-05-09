@@ -32,7 +32,7 @@ Desenvolver uma aplicação em Python utilizando Orientação a Objetos para cad
 
 ## Iniciar Aplicação
 
-- Abrir pasta no terminal `cd app`
+- Abrir pasta no terminal `cd [nome da pasta]`
 - Executar aplicação `python3 run.py`
 
 ## Contatos
